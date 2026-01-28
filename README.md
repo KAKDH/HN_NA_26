@@ -11,15 +11,21 @@ By the end of the course, students will be able to critically evaluate network-b
 Prior basic programming experience is necessary (Python, Jupyter Notebooks)
 
 **Academic Year:** 2025/26
+
 **Time:** Wednesdays, 13:00-16:00
+
 **Place:** 65 Rue de Richelieu, 75002 Paris
+
 **Teacher:** Dr Katarzyna Anna Kapitan
 
 
 ## Assessment: 
 
 •	Final Exam – 40% [Lectures]
+
 •	Group Project – 30% [Labs]
+
 •	Individual Participation & Presentation – 30% [Seminar]
+
 
 *Note: In order to pass the class you need to pass all three grading components (Attendance, Article-review, and Final Project).*
