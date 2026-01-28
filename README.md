@@ -28,4 +28,4 @@ Prior basic programming experience is necessary (Python, Jupyter Notebooks)
 •	Individual Participation & Presentation – 30% [Seminar]
 
 
-*Note: In order to pass the class you need to pass all three grading components (Attendance, Article-review, and Final Project).*
+*Note: In order to pass the class you need to pass all three grading components .*
