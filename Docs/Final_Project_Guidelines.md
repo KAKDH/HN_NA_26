@@ -93,3 +93,20 @@ Include an GenAI-statement, if relevant, explaining how and which tools you used
 If you have any questions, please bring them up during the lab sessions. 
 
 **Happy analysing!**
+
+
+_____
+
+Examples of manuscript catalogues to analyse and choose one as a case study: 
+
+- Falconer, M. (ed.), List of Additions to the Manuscripts in the British Museum in the Years 1836-1840 (London 1843), online version: https://archive.org/details/catalogueofadd1836brituoft/page/n5/mode/2up.
+
+-  Gigas, E. (ed.), Katalog over Det Kongelige Bibliotheks Haandskrifter vedrørende Norden, Særlig Danmark, Vol. I [out of three] (Copenhagen 1903), online version: https://archive.org/details/katalogoverdetst12kong/page/n275/mode/2up
+
+- Gödel, V. (ed.), Katalog öfver Kongl. bibliotekets fornisländska och fornnorska handskrifter (Stockholm 1897-1900), online version: https://archive.org/details/katalogfverkong00biblgoog/page/n12/mode/2up 
+
+- Gödel, V. (ed.), Katalog öfver Upsala Universitets Biblioteks fornisländska och fornnorska handskrifter (Uppsala 1892), online version: https://archive.org/details/katalogfverupsal00upps/page/n5/mode/2up
+
+- Kålund K. (ed.), Katalog over den Arnamagnæanske Håndskriftsamling, Vol. I [out of two] (Copenhagen 1889—1894), online version: https://baekur.is/bok/c9ff2011-3cda-4197-90ef-7e14fc19f264
+
+- Ward, H.L.D. (ed.), Catalogue of romances in the Department of Manuscripts in the British Museum (London 1883), online version: https://archive.org/details/catalogueromanc00wardgoog/page/n12/mode/2up
