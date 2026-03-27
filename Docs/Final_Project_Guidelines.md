@@ -137,4 +137,4 @@ Examples of manuscript catalogues to analyse and choose one as a case study:
 
 - Ward, H.L.D. (ed.), Catalogue of romances in the Department of Manuscripts in the British Museum (London 1883), online version: https://archive.org/details/catalogueromanc00wardgoog/page/n12/mode/2up
 
-- any other catalogue that you find interesintg 
+- any other catalogue that you find interesting 
