@@ -15,7 +15,31 @@ You will submit a **project report** along with a **data asset** that demonstrat
 - use the NetworkX package in Python, 
 - and engage with seminar readings on network analysis in the humanities.
 
-Additionally, you will deliver an oral presentation of your research questions, methodology, and findings in class in Week 8 (10-15 min per group).  
+Additionally, you will deliver an oral presentation of your research project, in class in Week 8 (10-15 min per group).  
+
+## **Presentations (Week 8)**
+
+Your presentation must not exceed 15 minutes. Aim for around 10 minutes and rehearse in advance, ideally by recording yourself.
+
+Your presentation should include:
+
+* A brief literature review (at least two articles on a similar topic; seminar readings are acceptable)
+* Your research questions
+* A description of your data
+* Your methodology for data collection and analysis
+* Your expected findings
+
+You are not expected to have final results yet, but you should be familiar enough with your data to make informed predictions.
+
+Learn more about preparing a conference presentation here:
+[https://web.ics.purdue.edu/~lehman/edci59100/Conference_Presentation_Tips.pdf](https://web.ics.purdue.edu/~lehman/edci59100/Conference_Presentation_Tips.pdf)
+
+**Additional tips:**
+
+* Use a minimum font size of 26 pt to ensure readability
+* Avoid placing text on slides that you will not discuss or allow time for the audience to read
+* Include captions for all images
+
 
 ## **Submission Format**
 Your submission will be a private GitHub repository consisting of:
@@ -80,7 +104,7 @@ Your report should be structured as follows:
 
 ## **Due Date**
 
-All submissions must be sent  to your teacher by email by **1 April, 23:59 (Paris time)**.
+All submissions must be sent  to your teacher by email by **1 May, 23:59 (Paris time)**.
 
 Late submissions won’t be accepted and will result in failing the class. 
 
