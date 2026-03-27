@@ -136,3 +136,5 @@ Examples of manuscript catalogues to analyse and choose one as a case study:
 - Kålund K. (ed.) Katalog over de oldnorsk-islandske håndskrifter i Det store kongelige bibliotek og i Universitetsbiblioteket (Copenhagen 1900), online version: https://baekur.is/bok/476c9523-7c85-4b44-b128-d0ae22f11a99/0/6/Katalog_over_de#page/n5/mode/2up
 
 - Ward, H.L.D. (ed.), Catalogue of romances in the Department of Manuscripts in the British Museum (London 1883), online version: https://archive.org/details/catalogueromanc00wardgoog/page/n12/mode/2up
+
+- any other catalogue that you find interesintg 
